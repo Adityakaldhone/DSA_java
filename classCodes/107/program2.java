@@ -7,7 +7,7 @@ Input:[-2,1,-3,4,-1,2,1,-5,4]
 output:6
 A] maximum subarray Bruteforce approach2
  */ 
-class Solution {
+class SolutionTwo {
 
 	public static void main(String[]args) {
 	
